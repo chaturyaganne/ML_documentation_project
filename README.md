@@ -4,11 +4,10 @@
 
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0+-red.svg)](https://pytorch.org/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Documentation](https://img.shields.io/badge/docs-complete-brightgreen.svg)](./docs/)
 
 > **A comprehensive technical documentation project showcasing machine learning model documentation best practices**  
-> Created for MathWorks Engineering Development Group (EDG) Internship Application
+
 
 ## 📋 Table of Contents
 
@@ -21,7 +20,6 @@
 - [Installation](#-installation)
 - [Usage Examples](#-usage-examples)
 - [Skills Demonstrated](#-skills-demonstrated)
-- [For MathWorks EDG Reviewers](#-for-mathworks-edg-reviewers)
 
 ## 🎯 Project Overview
 
@@ -41,10 +39,6 @@ This repository contains **professional technical documentation** for a Convolut
 - **Parameters**: ~50M trainable parameters
 - **Framework**: PyTorch 2.0+
 - **Performance**: 94% accuracy on CIFAR-10
-
-## 🎓 Why This Project?
-
-This documentation portfolio was specifically created to demonstrate the skills essential for the **MathWorks Engineering Development Group (EDG) internship**:
 
 ### Technical Communication
 - Clear explanations of complex ML concepts for diverse audiences
